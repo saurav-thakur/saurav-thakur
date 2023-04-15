@@ -4,7 +4,7 @@
 Updates:
 
 - 🔭 I’m currently an graduate Student of Shiv Nadar University.
-- 🌱 I’m currently Pursuing Computer Science and Engineering as my major and Big Data Analytics as my minor.
+- 🌱 I pursued Computer Science and Engineering as my major and Big Data Analytics as my minor.
 - 👯 I’m looking to collaborate on Software Engineering, Data Science, Machine Learning and Deep Learning.
 - 💬 Research Intrests are Deep Learning, Computer Vision, Medical AI. <!-- - 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: [LinkedIn 🌏](https://www.linkedin.com/in/saurav-thakur-357575174/)
