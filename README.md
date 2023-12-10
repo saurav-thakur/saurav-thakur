@@ -1,13 +1,11 @@
 ### Hey there, I'm Saurav!  👋
 
 
-Updates:
-
-- 🔭 I’m a graduate Student of Shiv Nadar University.
-- 🌱 I pursued Computer Science and Engineering as my major and Big Data Analytics as my minor.
+- 🔭 I’m currently a student at University of Essex.
+- 🌱 I'm pursuing my Masters in Artificial Intelligence.
 - 👯 I’m looking to collaborate on Software Engineering, Data Science, Machine Learning and Deep Learning.
 - 💬 Research Intrests are Deep Learning, Computer Vision, Medical AI. <!-- - 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: [LinkedIn 🌏](https://www.linkedin.com/in/saurav-thakur-357575174/)
+- 📫 How to reach me: [LinkedIn 🌏](https://www.linkedin.com/in/sauravthakur487/)
 <!-- - ⚡ Fun fact: I am also a musician -->
 <!-- - 😄 Pronouns: He/Him -->
 
