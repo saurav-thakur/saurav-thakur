@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Software Engineering, Data Science, Machine Learning and Deep Learning.
 - 💬 Research Intrests are Deep Learning, Computer Vision, Adversarial Machine Learning and Medical AI. <!-- - 🤔 I’m looking for help with ... -->
 - 📫 Reach out to me on: [LinkedIn 🌏](https://www.linkedin.com/in/sauravthakur487/)
-- Currently I am working on learning about FastAPI, LLMs and MLOps.
+- Currently I am exploring Adversarial Machine Learning, System Design, AWS, FastAPI, LLMs and MLOps.
 <!-- - ⚡ Fun fact: I am also a musician -->
 <!-- - 😄 Pronouns: He/Him -->
 
