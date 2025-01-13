@@ -11,5 +11,7 @@
 <!-- - 😄 Pronouns: He/Him -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=saurav-thakur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs"> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurav-thakur&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
